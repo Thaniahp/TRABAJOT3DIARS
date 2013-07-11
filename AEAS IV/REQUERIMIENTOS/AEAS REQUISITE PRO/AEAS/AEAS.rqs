@@ -1,0 +1,17 @@
+
+[Project]
+Name=AEAS
+Description=
+Directory=C:\Users\Thania\IBM\RQS AEAS\AEAS\AEAS.rqs
+Owner=Unknown
+Owner Key=2
+GUID={5E73DEA2-4DB4-4B90-8469-9AC6B62DEF8A}
+Key=1
+Revision number=1.0000
+Prefix=
+isVersioned=0
+Revision=1.0001
+
+[Rational Architect]
+EclipseElementProxiesPackageName=Proxys de elementos de Eclipse
+
