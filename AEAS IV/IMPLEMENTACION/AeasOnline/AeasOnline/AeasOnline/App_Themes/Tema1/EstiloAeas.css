@@ -1,0 +1,100 @@
+﻿body {
+}
+#cabecera
+{
+    height:150px;
+    background:#FFFFFF; /*blanco*/
+    color:black;
+    box-shadow: 0px 0px 10px #000000;
+    border: 1px groove #FFFFFF;
+    text-align: left;
+    position:relative;
+    z-index:2;
+}
+#contenidocabecera
+{
+    width:960px;
+    margin:auto;
+}
+#barrahorizontal 
+{
+    height:40px;
+    background-color:#FFFF00;
+    border-radius: 0px 0px 10px 10px;
+    box-shadow: 0px 0px 10px #000 inset; 
+    text-decoration-color:yellow;
+    position:relative;
+    z-index:2;
+}
+#logotipo
+{
+    width:25%;
+    float:left;
+    text-align:center;
+    margin-top:10px;
+}
+    #logotipo > img
+    {
+        box-shadow:0px 0px 10px #000;
+    }
+
+#titulo 
+{
+    width:45%;
+    float:left;
+    text-shadow:2px 2px 3px #000;
+}
+    #titulo > h1
+    {
+        margin-top:12px;
+    }
+
+    #titulo > h2 
+    {
+        margin-bottom:0;
+    }
+#bajo 
+{
+    width:960px;
+    margin:auto;
+    background-color:#FFFF00; /*amarillo*/
+    border-radius:0px 0px 20px 20px;
+    box-shadow: 0px 0px 10px #000000;
+    overflow:auto;
+    box-shadow: 0px 0px 10px #000; 
+}
+
+#columnIzq 
+{
+    float:left;
+    width:19%;
+    min-height:450px;
+}
+
+#columnDer
+{
+    float:right;
+    width:15%;
+    min-height:450px;
+}
+
+
+#columnCentro 
+{
+    float:left;
+    width:60%;
+    min-height:500px;
+    background-color:white;
+    box-shadow: 0px 0px 10px #000 inset; 
+}
+#pie 
+{
+    height:20px;
+    background-color:#000000;
+    border-radius:0px 0px 20px 20px;
+    clear:both;
+    box-shadow: 0px 0px 10px #000 inset; 
+    color:white;
+    text-align:center;
+    padding-top:5px;
+}
